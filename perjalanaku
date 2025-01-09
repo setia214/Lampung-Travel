@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel lampung</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link ke file CSS jika ada -->
+    <style>
+        body {
+    background-color: #f9f9f9;
+    background-image: url("https://media.istockphoto.com/id/1350621853/vector/seamless-pattern-of-small-white-stars-on-a-black-background.jpg?b=1&k=20&m=1350621853&s=170667a&w=0&h=1600&q=80");
+    font-family: 'Arial', sans-serif;
+    color: rgb(16, 15, 15);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+            }
+
+h1, h2 {
+    color: rgb(10, 10, 10);
+    margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+            .cta-button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+}
+
+        .cta-button:hover {
+             background-color: #45a049;
+        }
+        }
+        h1, h2 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Travel Setia</h1>
+    <p>Travel ini berada di Provinsi Lampung , khususnya di Bandar Lampung , menawarkan layanan perjalanan yang berkualitas dengan tarif yang bersahabat. Anda dapat menikmati kemudahan dalam perjalanan baik dalam maupun luar kota.</p>
+
+    <h2>Jadwal Perjalanan Travel Bandar Lampung</h2>
+    <table>
+        <tr>
+            <th>Waktu</th>
+            <th>Berangkat</th>
+        </tr>
+        <tr>
+            <td>PAGI</td>
+            <td>07.30 WIB</td>
+        </tr>
+        <tr>
+            <td>SIANG</td>
+            <td>13.30 WIB</td>
+        </tr>
+        <tr>
+            <td>MALAM</td>
+            <td>18.00 WIB</td>
+        </tr>
+    </table>
+    <h2>Perjalanan dalam kota</h2>
+    <table>
+        <tr>
+            <th>Jurusan</th>
+        </tr>
+        <tr>
+            <td>Pelabuhan Merak - Bakauhuni</td>
+        </tr>
+        <tr>
+            <td>Gunung Sugih</td>
+        </tr>
+        <tr>
+            <td>Bandar Lampung</td>
+        </tr>
+        <tr>
+            <td>Sukadana</td>
+        </tr><tr>
+            <td>Pingsewu</td>
+        </tr>
+        <tr>
+            <td>Kota Agung</td>
+        </tr>
+        <tr>
+            <td>Kalianda</td>
+        </tr>
+        <tr>
+            <td>Menggala</td>
+        </tr>
+        
+    </table>
+    <h2>Perjalanan Luar kota</h2>
+    <table>
+        <tr>
+            <th>Jurusan</th>
+        </tr>
+        <tr>
+            <td>Tanggerang</td>
+        </tr>
+        <tr>
+            <td>Banten</td>
+        </tr>
+        <tr>
+            <td>Jakarta</td>
+        </tr>
+        <tr>
+            <td>Depok</td>
+        </tr><tr>
+            <td>Bogor</td>
+        </tr>
+        <tr>
+            <td>Bekasi</td>
+        </tr>
+        <tr>
+            <td>Jawa Barat</td>
+        </tr>
+        <tr>
+            <td>Jawa tengah</td>
+        </tr>
+        <tr>
+            <td>Jawa timur</td>
+        </tr>
+        <tr>
+            <td>Jawa timur</td>
+        </tr>
+        <tr>
+            <td>Bali</td>
+        </tr>
+    </table>
+
+
+    <h2>Tarif Travel Lampung</h2>
+    <p>Biaya perjalanan diperkirakan sekitar Rp 200.000. Harga dapat bervariasi tergantung jarak tujuan dari Bandar Lampung.</p>
+
+    <h2>Keuntungan Naik Travel </h2>
+    <ul>
+        <li>Siap Antar Jemput Alamat</li>
+        <li>Perjalana yang Cepat</li>
+        <li>Tidak Repot dengan barang bawaan</li>
+        <li>Perjalanan yang nyaman</li>
+    </ul>
+    <h3>Hubungi Kontak:</h3>
+    <h3>TRAVEL</h3>
+        <ul>WhatsApp : 082279030980</ul>
+        
+    <h4>Nomor Layanan Pengunjung </h4>
+        <ul>WhatsApp : 082181702564</ul>
+        <h2>Testimoni Pelanggan</h2>
+    <h4><div class="testimoni"></div></h4>
+    <p>"Perjalanan yang sangat menyenangkan! Pelayanan yang ramah dan tepat waktu." - <strong>Andi- 0858xxxxxxxx</strong></p>
+    <p>"Saya sangat merekomendasikan Travel Setia untuk perjalanan Anda!" - <strong>Siti- 0896xxxxxxxx</strong></p>
+</div>
