@@ -1,0 +1,38 @@
+{
+  "id": 3218027,
+  "name": "Travel",
+  "target": "tag",
+  "source_type": "Repository",
+  "source": "setia214/Lampung-Travel",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "refs/tags/Travel",
+        "refs/tags/perjalanan",
+        "refs/tags/Travel Lampung"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "deletion"
+    },
+    {
+      "type": "non_fast_forward"
+    }
+  ],
+  "bypass_actors": [
+    {
+      "actor_id": null,
+      "actor_type": "DeployKey",
+      "bypass_mode": "always"
+    },
+    {
+      "actor_id": 4,
+      "actor_type": "RepositoryRole",
+      "bypass_mode": "always"
+    }
+  ]
+}
